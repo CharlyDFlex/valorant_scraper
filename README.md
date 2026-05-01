@@ -332,6 +332,7 @@ valorant-scraper/
 ├── README.md             # Ce fichier
 ├── valorant_stats.json   # Généré après exécution
 └── venv/                 # Environnement virtuel (si créé)
+└── valorant_stats_x_x    # Fichier exemple basé sur mon compte
 ```
 
 ---
