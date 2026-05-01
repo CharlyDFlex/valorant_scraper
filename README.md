@@ -51,7 +51,7 @@ Le script gère automatiquement :
 
 ```bash
 # Si vous avez Git
-git clone https://github.com/votre-repo/valorant-scraper.git
+git clone https://github.com/CharlyDFlex/valorant-scraper.git
 cd valorant-scraper
 
 # Ou simplement placer valorant_scraper.py dans un dossier dédié
