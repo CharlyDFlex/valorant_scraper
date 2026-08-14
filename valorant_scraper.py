@@ -133,7 +133,7 @@ def get_cloudflare_cookie() -> tuple[str, str]:
     options.headless = False   # patch compatibilité
     options.add_argument("--disable-blink-features=AutomationControlled")
 
-    driver = uc.Chrome(options=options, use_subprocess=True, version_main=147)
+    driver = uc.Chrome(options=options, use_subprocess=True, version_main=151)
 
     try:
         driver.get(TRACKER_HOME)
